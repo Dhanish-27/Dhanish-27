@@ -21,7 +21,7 @@ I’m a passionate Developer with expertise in Web dev/ML. I thrive on creating 
 
 - **HealHeaven:** A chatbot that is fed with all the Diseases/Illness and can give any data about those disease and Can identify the possibilities of the what might the disease according to your Symptoms
   
-- **Hostel Mail:** A hostel security precausion project that can be used in any hostel mode of stay in Education institutes also in other organisations. When the details about the students are entered while entering and Leaving the college,A mail will be sent to the registered parents mail. Reduces worries about students in long distance stays.
+- **CampusGuard:** A hostel security precausion project that can be used in any hostel mode of stay in Education institutes also in other organisations. When the details about the students are entered while entering and Leaving the college,A mail will be sent to the registered parents mail. Reduces worries about students in long distance stays.
 
 - **Farm Store:** An ecommerce web for formers to directly sell their expertises to the customers.Preventing the mediator use and additional Charges
 
