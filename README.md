@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Dhanish<br>About Me<br>I’m a passionate Developer with expertise in Web dev/ML. I thrive on creating efficient, scalable, and innovative solutions. I enjoy tackling complex problems and learning new technologies.<br>
+Hi there! 👋 I'm Dhanish<br>About Me<br>I’m a passionate Developer with expertise in Fullstack Development and Software Testing. I thrive on creating efficient, scalable, and innovative solutions. I enjoy tackling complex problems and learning new technologies.<br>
 
 
 ## 🌐 Socials:
