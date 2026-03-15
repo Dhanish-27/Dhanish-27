@@ -57,6 +57,10 @@ I enjoy building scalable applications, solving complex problems, and learning n
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanish-27&theme=highcontrast&hide_border=true&layout=compact" />
 
 </p>
+# Pacman
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dhanish-27.Dhanish-27&"  />
+</div>
 
 ---
 
